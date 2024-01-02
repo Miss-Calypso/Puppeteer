@@ -1,3 +1,4 @@
 # Puppeteer
 Python Projects 
-- Converting hec code back to file needed. 
+- Converting hex code back to file needed.
+- Description in the code.
